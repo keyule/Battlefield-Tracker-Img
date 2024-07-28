@@ -66,7 +66,7 @@ def find_and_circle_template(target_image_path, template_path, output_path, top_
         cv2.imwrite(method_output_path, target_image)
 
 # File paths
-target_image_path = 'screenshot.png'
+target_image_path = 'rift_1.png'
 template_path = 'wolf_small.png'
 output_path = 'output_image.jpg'
 
